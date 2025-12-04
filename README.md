@@ -48,7 +48,7 @@ A modern, full-stack travel agency management system built with React Router v7,
 
 1. **Clone the repository**
 
-  git clone https://github.com/anujverma08/travel-dashboard.git
+  git clone https://github.com/kartikeyjaiswal/TripWise.Planner-dashboard.git
 cd tripwise
 
 
